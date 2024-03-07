@@ -703,6 +703,10 @@
     animation-delay: 0.5s;
 }
 
+.cursor {
+    cursor: pointer;
+}
+
 @keyframes scale-up4 {
     20% {
         transform: scaleY(1.5);
