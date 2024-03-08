@@ -43,6 +43,6 @@ setTimeout(() => {
     document.body.classList.remove("overflow-hidden");
 }, 3000);
 // logo relod
-document.getElementById("pagerefresh").onclick = function () {
-    location.reload(); // This line refreshes the page
-};
+// document.getElementById("pagerefresh").onclick = function () {
+//     location.reload();
+// };
